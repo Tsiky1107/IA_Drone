@@ -1,0 +1,11 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['marquage', 'ravina simba']
+
+roboflow:
+  project: marquage-sol
+  version: 2.0
+  license: Private
